@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-title: "بوابة أعضاء مسار الويب"
+title: "بوابة أعضاء مسار الويب",
   description:"تجربة Google Login وادارة طلبات العضوية"،
 ;} 
 
